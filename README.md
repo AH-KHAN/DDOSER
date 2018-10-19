@@ -5,4 +5,7 @@ This is the combination of famous ddosing scripts and you can run it with few cl
 Requirements:
 Python, Pearl, .NET 3.5
 
+user:ACA
+pass:longliveaca
+
 
